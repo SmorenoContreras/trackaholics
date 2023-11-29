@@ -14,7 +14,7 @@ all pertinent information.
 
 ## Installation
 
-Not much really, just need terminal/shell that can run commands 
+Not much really, just need terminal/shell that can run commands. Uses Inquierer and MySQL2
 
 ## Usage
 
